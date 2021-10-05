@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c28cda13_002D809b_002D46d0_002D9877_002D68dfa0ff0593/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GeneratePacketTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DFBA6D9C-270F-48EE-AB57-EB1F20C022E5::net5.0::test.GeneratePacketTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DFBA6D9C-270F-48EE-AB57-EB1F20C022E5::net5.0::test.MatrixMultiplicationTests.test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c63754c4_002Dca96_002D4724_002Da088_002D71c573b2eaf5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DFBA6D9C-270F-48EE-AB57-EB1F20C022E5::net5.0::test.GeneratePacketTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DFBA6D9C-270F-48EE-AB57-EB1F20C022E5::net5.0::test.MatrixMultiplicationTests.test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DFBA6D9C-270F-48EE-AB57-EB1F20C022E5::net5.0::test.IntegrationTests.test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=deeeb97a_002D4d8f_002D4c3f_002D9dfe_002Dd6e57362e43c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DFBA6D9C-270F-48EE-AB57-EB1F20C022E5::net5.0::test.ComputePacketSizeTests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

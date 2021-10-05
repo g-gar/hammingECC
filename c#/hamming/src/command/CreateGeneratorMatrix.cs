@@ -8,7 +8,6 @@ namespace hamming.command{
             int rows = dataLength;
             int columns = parityBitSize + rows;
             int[,] result = new int[rows,columns];
-            int counter = 0;
             for (int i = 0; i < rows; i++)
             {
                 for (int j = 0; j < columns; j++)
